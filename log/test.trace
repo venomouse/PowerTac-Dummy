@@ -1,0 +1,436 @@
+0 DEBUG util.ReflectionTestUtils: Setting field [timeslotRepo] on target [org.powertac.samplebroker.PortfolioManagerService@2024b288]
+0 DEBUG util.ReflectionTestUtils: Setting field [customerRepo] on target [org.powertac.samplebroker.PortfolioManagerService@2024b288]
+0 DEBUG util.ReflectionTestUtils: Setting field [propertiesService] on target [org.powertac.samplebroker.PortfolioManagerService@2024b288]
+142 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 0, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 1, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 2, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 3, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 4, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 5, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 6, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 7, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 8, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 9, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 10, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 11, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 12, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 13, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 14, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 15, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 16, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 17, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 18, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 19, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 20, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 21, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 22, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 23, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 24, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 25, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 26, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 27, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 28, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 29, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 30, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 31, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 32, customer Podunk
+143 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 33, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 34, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 35, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 36, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 37, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 38, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 39, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 40, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 41, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 42, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 43, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 44, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 45, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 46, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 47, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 48, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 49, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 50, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 51, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 52, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 53, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 54, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 55, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 56, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 57, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 58, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 59, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 60, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 61, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 62, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 63, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 64, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 65, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 66, customer Podunk
+144 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 67, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 68, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 69, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 70, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 71, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 72, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 73, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 74, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 75, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 76, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 77, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 78, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 79, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 80, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 81, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 82, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 83, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 84, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 85, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 86, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 87, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 88, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 89, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 90, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 91, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 92, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 93, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 94, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 95, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 96, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 97, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 98, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 99, customer Podunk
+145 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 100, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 101, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 102, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 103, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 104, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 105, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 106, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 107, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 108, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 109, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 110, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 111, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 112, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 113, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 114, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 115, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 116, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 117, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 118, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 119, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 120, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 121, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 122, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 123, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 124, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 125, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 126, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 127, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 128, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 129, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 130, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 131, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 132, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 133, customer Podunk
+146 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 134, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 135, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 136, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 137, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 138, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 139, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 140, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 141, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 142, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 143, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 144, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 145, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 146, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 147, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 148, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 149, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 150, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 151, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 152, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 153, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 154, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 155, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 156, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 157, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 158, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 159, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 160, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 161, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 162, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 163, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 164, customer Podunk
+147 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 165, customer Podunk
+148 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 166, customer Podunk
+148 DEBUG samplebroker.PortfolioManagerService: consume 3.6 at 167, customer Podunk
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 0, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 1, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 2, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 3, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 4, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 5, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 6, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 7, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 8, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 9, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 10, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 11, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 12, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 13, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 14, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 15, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 16, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 17, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 18, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 19, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 20, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 21, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 22, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 23, customer Midvale
+152 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 24, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 25, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 26, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 27, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 28, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 29, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 30, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 31, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 32, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 33, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 34, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 35, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 36, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 37, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 38, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 39, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 40, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 41, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 42, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 43, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 44, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 45, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 46, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 47, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 48, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 49, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 50, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 51, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 52, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 53, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 54, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 55, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 56, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 57, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 58, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 59, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 60, customer Midvale
+153 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 61, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 62, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 63, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 64, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 65, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 66, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 67, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 68, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 69, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 70, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 71, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 72, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 73, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 74, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 75, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 76, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 77, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 78, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 79, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 80, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 81, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 82, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 83, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 84, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 85, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 86, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 87, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 88, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 89, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 90, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 91, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 92, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 93, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 94, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 95, customer Midvale
+154 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 96, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 97, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 98, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 99, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 100, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 101, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 102, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 103, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 104, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 105, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 106, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 107, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 108, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 109, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 110, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 111, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 112, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 113, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 114, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 115, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 116, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 117, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 118, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 119, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 120, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 121, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 122, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 123, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 124, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 125, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 126, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 127, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 128, customer Midvale
+155 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 129, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 130, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 131, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 132, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 133, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 134, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 135, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 136, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 137, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 138, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 139, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 140, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 141, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 142, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 143, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 144, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 145, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 146, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 147, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 148, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 149, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 150, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 151, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 152, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 153, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 154, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 155, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 156, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 157, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 158, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 159, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 160, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 161, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 162, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 163, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 164, customer Midvale
+156 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 165, customer Midvale
+157 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 166, customer Midvale
+157 DEBUG samplebroker.PortfolioManagerService: consume 1600.0 at 167, customer Midvale
+178 DEBUG util.ReflectionTestUtils: Setting field [router] on target [org.powertac.samplebroker.core.PowerTacBroker@2b155ce8]
+178 DEBUG util.ReflectionTestUtils: Setting field [customerRepo] on target [org.powertac.samplebroker.core.PowerTacBroker@2b155ce8]
+178 DEBUG util.ReflectionTestUtils: Setting field [brokerRepo] on target [org.powertac.samplebroker.core.PowerTacBroker@2b155ce8]
+178 DEBUG util.ReflectionTestUtils: Setting field [username] on target [org.powertac.samplebroker.core.PowerTacBroker@2b155ce8]
+179 DEBUG core.PowerTacBroker: found 0 repos
+179 DEBUG repo.BrokerRepo: add Sample
+180 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(Competition)
+180 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(BrokerAccept)
+180 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(TimeslotUpdate)
+180 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimEnd)
+180 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimStart)
+180 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimResume)
+180 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(TimeslotComplete)
+180 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimPause)
+181 DEBUG core.MessageDispatcher: Route org.powertac.common.msg.BrokerAccept
+181 DEBUG core.PowerTacBroker: found method public synchronized void org.powertac.samplebroker.core.PowerTacBroker.handleMessage(org.powertac.common.msg.BrokerAccept)
+182 DEBUG util.ReflectionTestUtils: Setting field [router] on target [org.powertac.samplebroker.core.PowerTacBroker@4c570021]
+182 DEBUG util.ReflectionTestUtils: Setting field [customerRepo] on target [org.powertac.samplebroker.core.PowerTacBroker@4c570021]
+182 DEBUG util.ReflectionTestUtils: Setting field [brokerRepo] on target [org.powertac.samplebroker.core.PowerTacBroker@4c570021]
+182 DEBUG util.ReflectionTestUtils: Setting field [username] on target [org.powertac.samplebroker.core.PowerTacBroker@4c570021]
+182 DEBUG core.PowerTacBroker: found 0 repos
+182 DEBUG repo.BrokerRepo: add Sample
+182 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(Competition)
+182 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(BrokerAccept)
+182 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(TimeslotUpdate)
+182 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimEnd)
+182 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimStart)
+182 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimResume)
+182 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(TimeslotComplete)
+182 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimPause)
+183 DEBUG util.ReflectionTestUtils: Setting field [router] on target [org.powertac.samplebroker.core.PowerTacBroker@63c99dae]
+183 DEBUG util.ReflectionTestUtils: Setting field [customerRepo] on target [org.powertac.samplebroker.core.PowerTacBroker@63c99dae]
+183 DEBUG util.ReflectionTestUtils: Setting field [brokerRepo] on target [org.powertac.samplebroker.core.PowerTacBroker@63c99dae]
+183 DEBUG util.ReflectionTestUtils: Setting field [username] on target [org.powertac.samplebroker.core.PowerTacBroker@63c99dae]
+183 DEBUG core.PowerTacBroker: found 0 repos
+183 DEBUG repo.BrokerRepo: add Sample
+183 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(Competition)
+183 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(BrokerAccept)
+183 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(TimeslotUpdate)
+183 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimEnd)
+183 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimStart)
+183 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimResume)
+183 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(TimeslotComplete)
+183 INFO  core.PowerTacBroker: Register PowerTacBroker.handleMessage(SimPause)
+185 DEBUG core.MessageDispatcher: Route org.powertac.common.msg.BrokerAccept
+185 DEBUG core.PowerTacBroker: found method public synchronized void org.powertac.samplebroker.core.PowerTacBroker.handleMessage(org.powertac.common.msg.BrokerAccept)
+185 DEBUG core.MessageDispatcher: Route org.powertac.common.Competition
+185 DEBUG core.PowerTacBroker: found method public void org.powertac.samplebroker.core.PowerTacBroker.handleMessage(org.powertac.common.Competition)
+185 INFO  core.PowerTacBroker: adding competitor Sam
+185 DEBUG repo.BrokerRepo: add Sam
+185 INFO  core.PowerTacBroker: adding competitor Sally
+185 DEBUG repo.BrokerRepo: add Sally
+185 ERROR core.PowerTacBroker: Cannot call handleMessage: java.lang.NullPointerException
+  ..at org.powertac.samplebroker.core.PowerTacBroker.handleMessage(PowerTacBroker.java:476)
+  ..at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+  ..at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:57)
+  ..at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+  ..at 
+187 DEBUG core.MessageDispatcher: Route org.powertac.common.msg.BrokerAccept
+187 DEBUG core.MessageDispatcherTest$LocalHandler: found method public void org.powertac.samplebroker.core.MessageDispatcherTest$LocalHandler.handleMessage(org.powertac.common.msg.BrokerAccept)
+189 DEBUG common.TimeService: ts0 updateTime: sys=1421161445632, simTime=null
+196 DEBUG common.TimeService: ts0 setCurrentTime to 2010-06-21T00:00:00.000Z
+207 DEBUG util.ReflectionTestUtils: Setting field [timeService] on target [org.powertac.common.repo.TimeslotRepo@49427381]
+207 DEBUG util.ReflectionTestUtils: Setting field [timeService] on target [org.powertac.samplebroker.core.PowerTacBroker@29ad3fba]
+207 DEBUG util.ReflectionTestUtils: Setting field [timeslotRepo] on target [org.powertac.samplebroker.core.PowerTacBroker@29ad3fba]
+2209 DEBUG repo.TimeslotRepo: find 2010-06-21T00:00:00.000Z
+2209 DEBUG common.TimeService: ts0 updateTime: sys=1421161447652, simTime=2010-06-21T00:00:00.000Z
+2210 DEBUG common.TimeService: ts0 setCurrentTime to 2010-06-21T01:00:00.000Z
+2210 INFO  core.PowerTacBroker: TimeslotUpdate at 2010-06-21T01:00:00.000Z
+2711 INFO  core.PowerTacBroker: Paused at 2010-06-21T01:00:00.000Z
+2711 DEBUG repo.TimeslotRepo: find 2010-06-21T01:00:00.000Z
+3711 INFO  core.PowerTacBroker: Resumed
+3712 DEBUG common.TimeService: ts0 updateTime: sys=1421161449155, simTime=2010-06-21T01:00:00.000Z
+3712 DEBUG common.TimeService: ts0 setCurrentTime to 10228-12-05T04:00:00.000Z
+3713 DEBUG common.TimeService: ts1 updateTime: sys=1421161449156, simTime=null
+3713 DEBUG common.TimeService: ts1 setCurrentTime to 2010-06-21T00:00:00.000Z
+3714 DEBUG util.ReflectionTestUtils: Setting field [timeService] on target [org.powertac.common.repo.TimeslotRepo@281fba6e]
+3714 DEBUG util.ReflectionTestUtils: Setting field [timeService] on target [org.powertac.samplebroker.core.PowerTacBroker@3b08a056]
+3714 DEBUG util.ReflectionTestUtils: Setting field [timeslotRepo] on target [org.powertac.samplebroker.core.PowerTacBroker@3b08a056]
+5716 DEBUG repo.TimeslotRepo: find 2010-06-21T00:00:00.000Z
+5716 DEBUG common.TimeService: ts1 updateTime: sys=1421161451159, simTime=2010-06-21T00:00:00.000Z
+5716 DEBUG common.TimeService: ts1 setCurrentTime to 2010-06-21T01:00:00.000Z
+5716 INFO  core.PowerTacBroker: TimeslotUpdate at 2010-06-21T01:00:00.000Z
+6817 INFO  core.PowerTacBroker: Paused at 2010-06-21T01:00:00.000Z
+6817 DEBUG repo.TimeslotRepo: find 2010-06-21T01:00:00.000Z
+9817 INFO  core.PowerTacBroker: Resumed
+9817 DEBUG common.TimeService: ts1 updateTime: sys=1421161455260, simTime=2010-06-21T01:00:00.000Z
+9817 DEBUG common.TimeService: ts1 setCurrentTime to 10228-12-05T06:00:00.000Z
+9821 DEBUG common.TimeService: ts2 updateTime: sys=1421161455264, simTime=null
+9821 DEBUG common.TimeService: ts2 setCurrentTime to 2010-06-21T00:00:00.000Z
+9821 DEBUG util.ReflectionTestUtils: Setting field [timeService] on target [org.powertac.common.repo.TimeslotRepo@601edf33]
+9821 DEBUG util.ReflectionTestUtils: Setting field [timeService] on target [org.powertac.samplebroker.core.PowerTacBroker@acfbe92]
+9822 DEBUG util.ReflectionTestUtils: Setting field [timeslotRepo] on target [org.powertac.samplebroker.core.PowerTacBroker@acfbe92]
+11823 DEBUG repo.TimeslotRepo: find 2010-06-21T00:00:00.000Z
+11823 DEBUG common.TimeService: ts2 updateTime: sys=1421161457266, simTime=2010-06-21T00:00:00.000Z
+11823 DEBUG common.TimeService: ts2 setCurrentTime to 2010-06-21T01:00:00.000Z
+11824 INFO  core.PowerTacBroker: TimeslotUpdate at 2010-06-21T01:00:00.000Z
